@@ -1,4 +1,4 @@
-# fake_news_prediction_using_ml
+# Fake News Prediction using ML
 
 ### Date created
 04th Oct 2022
