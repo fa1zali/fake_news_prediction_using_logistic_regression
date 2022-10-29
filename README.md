@@ -1,5 +1,3 @@
-# Fake News Prediction using Logistic Regression
-
 ### Date created
 04th Oct 2022
 
