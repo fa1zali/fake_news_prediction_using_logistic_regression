@@ -4,7 +4,7 @@
 04th Oct 2022
 
 ### Project Title
-**Fake News Prediction using ML**
+**Fake News Prediction using Logistic Regression**
 
 ### Description
 Logistic Regression is a regression approach used for predicting only two possible values.
